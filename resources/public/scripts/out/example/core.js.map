@@ -1,0 +1,7 @@
+{"version":3,
+ "file":
+ "/home/tim/projects/example/resources/public/scripts/out/example/core.js",
+ "sources":["core.cljs"],
+ "lineCount":7,
+ "mappings":";AAAA;;AAEA,AAACA;AAED,YAAA,ZAAMC",
+ "names":["cljs.core/enable-console-print!", "js/console"]}
