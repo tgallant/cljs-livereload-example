@@ -1,36 +1,21 @@
-# example
-
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
+[http://scheme.rocks/2014/10/19/grunt-livereload-for-clojurescript/](http://scheme.rocks/2014/10/19/grunt-livereload-for-clojurescript/)
 
 ## Usage
 
-FIXME: explanation
+On your first run:
 
-    $ java -jar example-0.1.0-standalone.jar [args]
+    npm install
+    lein cljsbuild once
+    grunt server
 
-## Options
+All subsequent runs:
 
-FIXME: listing of options this app accepts.
+    grunt server
 
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 Tim Gallant
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
